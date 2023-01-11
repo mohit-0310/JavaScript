@@ -1,0 +1,400 @@
+.emptystate-container {
+  min-height: 100vh;
+}
+.emptystate-emptystate {
+  width: 100%;
+  height: 385px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(27, 36, 74, 1);
+}
+.emptystate-addpointsbtnshome {
+  top: 271px;
+  left: 82px;
+  width: 155px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-plusthreepoint {
+  top: 0px;
+  left: 110px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-plustwopoint {
+  top: 0px;
+  left: 54px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text02 {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-plusonepoint {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text04 {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-addpointsbtnshome1 {
+  top: 271px;
+  left: 337px;
+  width: 155px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-plusthreepoint1 {
+  top: 0px;
+  left: 110px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text06 {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-plustwopoint1 {
+  top: 0px;
+  left: 54px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text08 {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-plusonepoint1 {
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.emptystate-text10 {
+  top: 9px;
+  left: 7px;
+  color: rgba(153, 170, 215, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 27.811616897583008px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.emptystate-homescore {
+  top: 125px;
+  left: 82px;
+  width: 155px;
+  height: 120px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(8, 0, 1, 1);
+}
+.emptystate-homescore1 {
+  top: 125px;
+  left: 337px;
+  width: 155px;
+  height: 120px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(8, 0, 1, 1);
+}
+.emptystate-text12 {
+  top: 68px;
+  left: 85px;
+  color: rgba(238, 238, 238, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 700;
+  line-height: 35.8926887512207px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.emptystate-text14 {
+  top: 68px;
+  left: 340px;
+  color: rgba(238, 238, 238, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 700;
+  line-height: 35.8926887512207px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.emptystate-text16 {
+  top: 125px;
+  left: 100px;
+  color: rgba(249, 79, 109, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 90px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 126.66556549072266px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.emptystate-text17 {
+  top: 125px;
+  left: 355px;
+  color: rgba(249, 79, 109, 1);
+  width: 117px;
+  height: auto;
+  position: absolute;
+  font-size: 90px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cursed Timer ULiL;
+  font-weight: 400;
+  line-height: 126.66556549072266px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
